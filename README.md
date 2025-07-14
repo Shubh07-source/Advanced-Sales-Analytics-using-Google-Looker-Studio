@@ -29,7 +29,3 @@ This project focuses on deriving actionable business insights from a retail comp
 ### 🚀 Impact
 
 Empowered business teams to make informed, data-driven decisions through clear visualizations and targeted recommendations.
-
----
-
-Let me know if you'd like a version tailored for GitHub or portfolio use!
